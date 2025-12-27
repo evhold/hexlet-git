@@ -1,3 +1,1 @@
 Haskell Curry 
-
-test
